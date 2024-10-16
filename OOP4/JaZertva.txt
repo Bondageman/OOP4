@@ -1,0 +1,9 @@
+Circle in Rhombus:
+Circle:
+Radius: 3
+Area: 28.2735
+Circumference: 18.849
+Rhombus:
+Diagonal 1: 5
+Diagonal 2: 7
+Area: 17.5
